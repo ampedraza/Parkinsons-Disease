@@ -1,4 +1,4 @@
-## Python-Project:
+## Predicting Parkinson's Disease:
 
  + An individual project using Python programming to predict Parkinson's disease using digitized voice data.
  + Files included in this repository:
